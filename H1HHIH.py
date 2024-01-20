@@ -30,7 +30,7 @@ from pyrogram import (
 ownerID = int("6396782078") #ايدي الادمن 
 api_hash = "b25cce1727f6d33d41d9e00e3ed62583" #ايبي هاش 
 api_id = 27477919 #ايبي ايدي
-token = "6446928301:AAGRMnCKf1qzykD2LTlBAQDVdr1VUxU1hgU" #توكن البوت
+token = "6433215083:AAGcLeIYXYIlIihw4Uu0VpcHhrsAGHIuZOI" #توكن البوت
 
 
 bot = Client(
